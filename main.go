@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
-    println("hello!")
+	fmt.Println("Go Started.\nHello from Main\n")
 }
